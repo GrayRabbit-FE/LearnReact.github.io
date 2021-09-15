@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "./static/css/main.e2f95cad.chunk.css",
+    "main.js": "./static/js/main.f36dbb1c.chunk.js",
+    "main.js.map": "./static/js/main.f36dbb1c.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.8d80870c.js",
+    "runtime-main.js.map": "./static/js/runtime-main.8d80870c.js.map",
+    "static/js/2.5b03fee9.chunk.js": "./static/js/2.5b03fee9.chunk.js",
+    "static/js/2.5b03fee9.chunk.js.map": "./static/js/2.5b03fee9.chunk.js.map",
+    "static/js/3.12c724a0.chunk.js": "./static/js/3.12c724a0.chunk.js",
+    "static/js/3.12c724a0.chunk.js.map": "./static/js/3.12c724a0.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.e2f95cad.chunk.css.map": "./static/css/main.e2f95cad.chunk.css.map",
+    "static/js/2.5b03fee9.chunk.js.LICENSE.txt": "./static/js/2.5b03fee9.chunk.js.LICENSE.txt",
+    "static/media/bg.d3cadcf3.jpg": "./static/media/bg.d3cadcf3.jpg",
+    "static/media/moon.22aa4ef0.png": "./static/media/moon.22aa4ef0.png",
+    "static/media/mountain.0829473c.png": "./static/media/mountain.0829473c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d80870c.js",
+    "static/js/2.5b03fee9.chunk.js",
+    "static/css/main.e2f95cad.chunk.css",
+    "static/js/main.f36dbb1c.chunk.js"
+  ]
+}
